@@ -12,7 +12,7 @@ PCB Making at Home
 Hold on, mate! It's right here:
 - [An Ender 3 CNC Milling addon to automate PCB drilling](https://github.com/Vitorbnc/ender3_addons/)
 - [A nice PCB photoresist laminator](https://github.com/Vitorbnc/pcblaminator)
-- [Le chef d'oeuvre: haxmark460 is a Direct PCB Printer](https://github.com/Vitorbnc/haxmark460)
+- [Le chef d'oeuvre: haxmark460, a Direct PCB Printer](https://github.com/Vitorbnc/haxmark460)
 
 
 
