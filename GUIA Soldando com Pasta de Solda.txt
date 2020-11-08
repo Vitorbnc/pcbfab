@@ -1,0 +1,5 @@
+1-Coloque a pasta de solda Mechanic sobre os pads, sem abusar.
+2-Posicione o componente.
+3-Use o bico mais grosso do soprador, com ar em 5.5-4.5 e temperatura 275-280°C e vá soprando a uma distância de cerca de 2cm (um dedão deitado)
+4-Se precisar retirar alguma solda grudada entre os pads, pegue um pedaço de fio de cabo de rede desencapado e mergulhe ele no fluxo de solda. 
+Então, coloque o fio entre os pads grudados e esquente ele com o ferro de solda, "arranhando" a solda grudada para fora

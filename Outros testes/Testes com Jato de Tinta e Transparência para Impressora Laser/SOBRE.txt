@@ -1,0 +1,10 @@
+A ideia era usar uma transparência de impressora laser em jato de tinta, já que a tinta não adere permanentemente, permitindo a
+reutilização da transparência por inúmeras vezes.
+
+Testes:
+1. Transparência sem limpeza
+2.Sem limpeza, com reimpressão na mesma área para reforçar a cor
+3.Limpeza da transparência com álcool de uso doméstico
+
+Resultado:
+Nenhum caso gerou resultado satisfatório.

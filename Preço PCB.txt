@@ -1,0 +1,31 @@
+TEC-CI - Dados fornecidos pela vendedora no dia 23/03/2020, como "ideia de preço"
+
+Face simples (até 20x20) - 5 pcs
+R$245,00
+
+Face dupla (idem)
+R$375,00
+
+
+--------------------------------
+
+Mazza G-Tec
+
+
+Substrato
+Fibra FR4, Dupla-face - 1,6mm - 1Oz
+Dimensões
+150x100mm
+Qntd. placas
+2 placas
+Qntd. furos
+5 furos
+Máscara
+Azul ( TOP / BOT )
+Legenda
+Branca ( TOP / BOT )
+Nome arquivos
+Teste 15x10cm
+TOTAL
+R$ 85,80 (R$ 42,90 por placa)
+

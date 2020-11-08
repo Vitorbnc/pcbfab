@@ -1,0 +1,29 @@
+Fonte: 32V com resitor de 14.8R em série (esta é a resistência mínima, pode ser aumentada em até 500R pelo potenciômetro).
+-Todos os leds estão ligados em série
+-9 leds espaçados de 2.5cm entre si
+-Montados no centro de um suporte (caixa sem fundo e tampa) de madeira de 12x18x18.4cm(largura x compr x altura interna)
+-Placa de vidro de 12x18cm  e 3mm de espessura cobre a placa, filme e máscara durante exposição
+-Tempo de exposição: 8min
+
+#### Dados dos LEDs:
+10 Unidades Chip Power Led 3W UV – Ultra Violeta (R$32,99)
+
+
+Características:
+
+Cor: UV – Ultra Violeta
+
+Potência: 3W
+
+Tensão: 3,2 – 3,6V
+
+Corrente: 700mA
+
+Fluxo luminoso: 6 ~ 10 Lumens
+
+Comprimento de onda: 395 ~ 400 nm
+
+Vida útil: 100.000horas
+
+Ângulo de feixe: 120 graus
+

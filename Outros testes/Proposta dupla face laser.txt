@@ -1,0 +1,8 @@
+Mover manualmente X, Y e Z. Nada automático.
+Durante o projeto:
+1) Fazer 1 marca (xis ou ponto) no canto inferior esquerdo, exatamente sobre a origem, e fazer 4 furos nos 4 cantos da placa, um dos 4 será sobre o xis.
+2)Gravar a top copper
+3)Furar tudo
+4) Usar a circunferência externa de 2 dos furos e o laser para alinhar a back copper.
+5)Gravar a back copper
+6) Etch de tudo

@@ -1,0 +1,40 @@
+Na hora de gerar o photoresist ou imprimir, você vai precisar de:
+-Front Copper
+-Front Mask
+-Back Copper
+-Back Mask
+
+É necessário usar o negativo para os Coppers, e inverter (flip) todos os Backs.
+Faça os furos primeiro, fica mais fácil de alinhas as camadas. 
+Para furar você vai precisar de:
+-Drill File (Excellon), com eixo auxiliar como origem
+
+Passos:
+1.Finalizar a PCB, colocar as vias nos cantos para alinhar e o eixo auxiliar (no canto inferior esquerdo em geral)
+2.Gerar os arquivos descritos
+3.Ir ao FlatCam, importar o excellon, gerar o G-Code, com:
+
+Prepend:
+G92 X0 Y0 Z0
+M106 S200
+
+Append:
+M107
+M84
+
+Diam. Broca 0.8mm
+Profundidade de corte -2.7mm, altura de deslocamento 2.5mm
+Avanço Z durante o furo: 100mm/min
+Avanço Rápido: 1000mm/min
+Preprocessor: Marlin
+
+4.Salvar o arquivo G-Code do FlatCam e arrastá-lo sobre o Executável "Marlin Excellon Fix F100 Drill", ele vai gerar um novo arquivo om "-ok" no final.
+ O Fix é porque o FlatCam aplica a velocidade de avanço rápido mesmo para o Z, é preciso trocá-la para velocidad de furo.
+5.Carregar o arquivo para a Ender, posicionar a broca sobre o eixo auxiliar e furar
+6.Limpe as rebarbas girando um broca grande (3mm ou mais) sobre os furos (ESPECIALMENTE IMPORTANTE para não arranhar o cilindro da impressora)
+7.Imprimir a placa (veja instruções da haxmark460)
+
+
+
+
+

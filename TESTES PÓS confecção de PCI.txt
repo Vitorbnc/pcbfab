@@ -1,0 +1,9 @@
+SEGREDO DO SUCESSO:
+0.Popule primeiro só a seção de energia (reguladores, capacitores, diodos, pinos) e teste se os níveis de tensão certos estão chegando nas trilhas dos CIs
+
+
+1.Cheque a polaridade de capacitores polarizados
+2.Cheque a orientação dos CIs
+3.Confira a polaridade dos conectores de energia diretamente nos terminais dos CIs
+4.Confira as ligações dos demais conectores diretamente nos terminais dos CIs
+5.Se usar MCU ou periférico externo, confira se os níveis lógicos são compatíveis (3.3V e 5V por exemplo)

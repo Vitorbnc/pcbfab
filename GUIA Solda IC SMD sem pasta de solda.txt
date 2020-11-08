@@ -1,0 +1,12 @@
+1. Estanhe os pads
+2.Use fluxo de solda
+3.Posicione e solde os pinos extremos
+4.Estanhe bem todos os pinos de um lado do CI, não há problema se grudarem, mas não abuse
+5.Configure o soprador para 230°C, máximo fluxo de ar, e com o bico mais fino.
+6.Aqueça alguns pinos com a solda em uma mão, e com a outra mão, sopre por cima, no mesmo local que está aquecendo, para que o excesso de solda saia.
+7.Outros métodos:
+	Use um fio com boa aderência à solda e aqueça-o com o ferro para que ele absorva parte da solda
+	Empurre a solda para as extremidades, com o ferro na horizontal, perpendicular aos pads
+	Deslize o ferro na direção paralela aos pads para remover parte da solda
+
+Por Vítor Costa
